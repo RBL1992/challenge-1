@@ -19,7 +19,7 @@ N/A
 
 ## License
 
-Please refer to license in repo
+N/A
 
 ## Badges
 
