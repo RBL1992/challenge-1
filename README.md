@@ -1,38 +1,10 @@
 
-# Coding into a new chapter in life
+# Learning to Refract html and css
 
 ## Description
 
-My motivation for this project is to acquire new knowledge about Refactoring a project that will complete the 2nd half of career path change. I refactored  project to help give me a base level knowledge of Git, CSS,and HTML. Refactoring this landing page... I 
-
-## Installation
-
-N/A
+My motivation for this project is to acquire new knowledge about refacting a project. I refactored this project to help give me a base level knowledge of Git, CSS,and HTML. Refactoring this landing page... taught me how to look at code and start to clean it up. I 
 
 ## Usage
 
-This Pre-work studyguide can be used to eaisly access notes pertaining to HTML, CSS, Git, and JavaScript. If we open the DevToools console we can see JavaScript running. The webiste will list our topics and let us know which topics to study first.
-
-## Credits
-
-N/A
-
-## License
-
-N/A
-
-## Badges
-
-N/A
-
-## Features
-
-N/A
-
-## How to Contribute
-
-N/A
-
-## Tests
-
-N/A
+This project can be used to see how refactoring a project can improve the flow of code... in turn creating a more user friendly presence. 
